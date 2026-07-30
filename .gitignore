@@ -1,0 +1,17 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# Edytory
+.vscode/
+*.swp
+
+
+*.env
+**/config/api_keys.yaml
+**/config/secrets.yaml
